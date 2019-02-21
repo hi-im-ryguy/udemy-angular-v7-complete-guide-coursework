@@ -1,0 +1,11 @@
+h2 {
+  font-size: 2rem;
+}
+
+.online {
+  color: white;
+}
+
+.offline {
+  color: purple;
+}
